@@ -4,13 +4,7 @@
 
 Soy estudiante de Ciencias de la Computación, enfocado en la seguridad informática, sistemas operativos, machine learning e inteligencia artificial.
 
-## 🛠️ Stack Tecnológico
-<!-- Usa Shields.io para crear etiquetas visuales de las herramientas que dominas -->
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Perl](https://img.shields.io/badge/perl-%230298c3.svg?style=for-the-badge&logo=perl&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+
 ## 🛠️ Tecnologías y Herramientas
 
 <!-- Lenguajes -->
@@ -30,6 +24,10 @@ Soy estudiante de Ciencias de la Computación, enfocado en la seguridad informá
 * **[Market Charting App](enlace-a-tu-repo):** Aplicación *standalone* construida en Perl (Tk framework) para el análisis de activos, con renderizado dinámico de indicadores técnicos y mecánicas de zoom.
 * **[Infraestructura de Red](enlace-a-tu-repo):** Despliegue y configuración de un servidor de directorio OpenLDAP junto con una red de autenticación MIT Kerberos.
 
-## 📊 Mis Estadísticas
-<!-- Cambia "TU-USUARIO" por tu nombre de usuario real de GitHub -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=transparent)](https://github.com/TU-USUARIO)
+## 📊 Estadísticas
+
+<!-- Tarjeta de Estadísticas Generales -->
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Davandres&show_icons=true&theme=radical)](https://github.com/Davandres)
+
+<!-- Tarjeta de Lenguajes Más Usados -->
+[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Davandres&layout=compact&theme=radical)](https://github.com/Davandres)
