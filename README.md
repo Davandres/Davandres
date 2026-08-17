@@ -31,7 +31,7 @@ Soy estudiante de Ciencias de la Computación, enfocado en la seguridad informá
 ## 📊 Estadísticas
 
 <!-- Tarjeta de Estadísticas Generales -->
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Davandres&show_icons=true&theme=radical)](https://github.com/Davandres)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=davandres&show_icons=true&theme=radical)](https://github.com/davandres)
 
 <!-- Tarjeta de Lenguajes Más Usados -->
-[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Davandres&layout=compact&theme=radical)](https://github.com/Davandres)
+[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=davandres&layout=compact&theme=radical)](https://github.com/davandres)
