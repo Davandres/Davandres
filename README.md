@@ -28,10 +28,3 @@ Soy estudiante de Ciencias de la Computación, enfocado en la seguridad informá
 * **[Market Charting App](enlace-a-tu-repo):** Aplicación *standalone* construida en Perl (Tk framework) para el análisis de activos, con renderizado dinámico de indicadores técnicos y mecánicas de zoom.
 * **[Infraestructura de Red](enlace-a-tu-repo):** Despliegue y configuración de un servidor de directorio OpenLDAP junto con una red de autenticación MIT Kerberos.
 
-## 📊 Estadísticas
-
-<!-- Tarjeta de Estadísticas Generales -->
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Davandres&show_icons=true&theme=radical)](https://github.com/Davandres)
-
-<!-- Tarjeta de Lenguajes Más Usados -->
-[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=davandres&layout=compact&theme=radical)](https://github.com/davandres)
