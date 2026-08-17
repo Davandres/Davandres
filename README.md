@@ -1,8 +1,8 @@
-## Hi there 👋
 
-# ¡Hola! Soy David 👋
 
-Soy estudiante de Ciencias de la Computación, enfocado en el desarrollo de software, análisis de datos y arquitectura de bases de datos distribuidas. Me apasiona construir sistemas eficientes y herramientas de visualización.
+# ¡Hola! Soy David Andrés 👋
+
+Soy estudiante de Ciencias de la Computación, enfocado en la seguridad informática, sistemas operativos, machine learning e inteligencia artificial.
 
 ## 🛠️ Stack Tecnológico
 <!-- Usa Shields.io para crear etiquetas visuales de las herramientas que dominas -->
@@ -11,6 +11,17 @@ Soy estudiante de Ciencias de la Computación, enfocado en el desarrollo de soft
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+## 🛠️ Tecnologías y Herramientas
+
+<!-- Lenguajes -->
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<!-- Entorno y Bases de Datos -->
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🚀 Proyectos Destacados
 
