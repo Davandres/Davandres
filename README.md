@@ -28,4 +28,5 @@ Soy estudiante de Ciencias de la Computación, enfocado en la seguridad informá
 * **[ElectroMax](https://github.com/Davandres/InterfazUsuario-BDD):** Arquitectura de base de datos relacional distribuida. Diseñada con particionamiento de tablas y replicación entre nodos regionales usando SQL Server.
 * **[Market Charting App](enlace-a-tu-repo):** Aplicación *standalone* construida en Perl (Tk framework) para el análisis de activos, con renderizado dinámico de indicadores técnicos y mecánicas de zoom.
 * **[Infraestructura de Red](https://github.com/Davandres/Lab2-miniIdM):** Despliegue y configuración de un servidor de directorio OpenLDAP junto con una red de autenticación MIT Kerberos.
-
+* **[SlendyBrainRots](https://github.com/FervidEmpress01/2025B_GR1CC_GR4):**
+: Videojuego de terror 3D desarrollado en C++ utilizando OpenGL. Incorpora un motor de iluminación dinámica de 24 fuentes, culling de geometría, IA reactiva y un sistema de audio espacial.
