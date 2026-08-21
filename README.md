@@ -1,6 +1,6 @@
 
 
-# ¡Hola! Soy David Andrés 👋
+# ¡Hola! Soy David Andrés 
 
 Soy estudiante de Ciencias de la Computación, enfocado en la seguridad informática, sistemas operativos, machine learning e inteligencia artificial.
 
